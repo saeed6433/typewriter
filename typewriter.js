@@ -9,4 +9,4 @@ delayTime += 100
 
 setTimeout(()=>{
   process.stdout.write('\n')
-},delayTime)
+},delayTime) 
